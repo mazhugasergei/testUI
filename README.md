@@ -1,3 +1,5 @@
+# UI Components
+
 ### Buttons
 ```html
 <a href="/" className="btn">Sign up</a>
