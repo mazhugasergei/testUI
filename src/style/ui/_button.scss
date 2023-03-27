@@ -1,5 +1,7 @@
 button, a.btn{
   cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
   background: var(--primary);
   color: var(--pure-white);
   font-size: 1.125rem;
