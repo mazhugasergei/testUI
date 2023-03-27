@@ -1,6 +1,10 @@
 # UI Components
 
+
+
 ### Buttons
+<img src="/src/assets/images/readme/buttons.png" />
+
 ```html
 <a href="/" className="btn">Sign up</a>
 <button>Sign up</button>
@@ -17,7 +21,11 @@
 <button disabled className="small light">Sign up</button>
 ```
 
+
+
 ### Text Inputs
+<img src="/src/assets/images/readme/text_inputs.png" />
+
 ```html
 <form>
   <label htmlFor="textInput_01">Text input</label>
@@ -29,7 +37,11 @@
 </form>
 ```
 
+
+
 ### Checkboxed Inputs
+<img src="/src/assets/images/readme/checkboxes_input.png" />
+
 ```html
 <form>
   <input className="checkbox-input" type="checkbox" name="checkboxGroup_01" id="checkboxGroup_checkbox_01" />
@@ -50,7 +62,11 @@
 </form>
 ```
 
+
+
 ### Radio Inputs
+<img src="/src/assets/images/readme/radio_input.png" />
+
 ```html
 <form>
   <input className="radio-input" type="radio" name="radioGroup_01" id="radioGroup_radio_01" />
