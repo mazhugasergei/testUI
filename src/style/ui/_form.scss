@@ -78,6 +78,7 @@ form{
   }
   // label (icon + text)
   .checkbox-label, .radio-label{
+    cursor: pointer;
     display: flex;
     align-items: center;
     gap: .75rem;

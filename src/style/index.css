@@ -201,6 +201,7 @@ form .radio {
   border-radius: 50%;
 }
 form .checkbox-label, form .radio-label {
+  cursor: pointer;
   display: flex;
   align-items: center;
   gap: 0.75rem;
