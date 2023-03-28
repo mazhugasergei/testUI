@@ -2,7 +2,7 @@
 
 
 
-### Buttons
+## Buttons
 <img src="/src/assets/images/readme/buttons.png" />
 
 ```html
@@ -22,7 +22,7 @@
 
 
 
-### Text Inputs
+## Text Inputs
 <img src="/src/assets/images/readme/text_inputs.png" />
 
 ```html
@@ -38,7 +38,7 @@
 
 
 
-### Checkboxed Inputs
+## Checkboxed Inputs
 <img src="/src/assets/images/readme/checkboxes_input.png" />
 
 ```html
@@ -63,7 +63,7 @@
 
 
 
-### Radio Inputs
+## Radio Inputs
 <img src="/src/assets/images/readme/radio_input.png" />
 
 ```html
@@ -88,7 +88,7 @@
 
 
 
-### Social Buttons
+## Social Buttons
 <img src="/src/assets/images/readme/social_buttons.png" />
 
 ```html
