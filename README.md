@@ -6,8 +6,7 @@
 <img src="/src/assets/images/readme/buttons.png" />
 
 ```html
-<a href="/" className="btn">Sign up</a>
-<button>Sign up</button>
+<button>Sign up</button> <!-- or 'a' with class 'btn' -->
 <button className="white">Sign up</button>
 <button className="light">Sign up</button>
 <button className="small">Sign up</button>
