@@ -27,11 +27,11 @@
 
 ```html
 <form>
-  <label htmlFor="textInput_01">Text input</label>
+  <label htmlFor="textInput_1">Text input</label>
   <input id="textInput_01" type="email" placeholder="Enter your email" />
 </form>
 <form>
-  <label htmlFor="textInput_02">Text input</label>
+  <label htmlFor="textInput_2">Text input</label>
   <textarea id="textInput_02" placeholder="Enter your email"></textarea>
 </form>
 ```
